@@ -1,0 +1,18 @@
+{
+ "titulo": "Os 3 animais mais rápidos do mundo",
+ "formato": "16:9",
+ "voz_motor": "gratis",
+ "lead": 0.3,
+ "cauda": 1.6,
+ "cenas": [["s01", "Os três animais"], ["s02", "Em terceiro"], ["s03", "Em segundo"], ["s04", "E em primeiro"]],
+ "efeitos": [
+  ["whoosh", "Em terceiro", -0.2, 0.3],
+  ["whoosh", "Em segundo", -0.2, 0.3],
+  ["boom", "E em primeiro", -0.15, 0.45],
+  ["ding", "voa", -0.05, 0.4]
+ ],
+ "trilha": {"modo": "pad", "clima": "esperanca"},
+ "fim_em": "Conta nos",
+ "banner_em": [],
+ "extras": ["skills/estilos-animados/estilos/vetorial/estilo.js", "skills/videos-longos/assets/longo.js"]
+}
